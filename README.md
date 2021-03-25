@@ -16,7 +16,7 @@ For my final project at Flatiron, I wanted to work on something that spanned acr
 Therefore, I decided to see if I could forecast hourly Uber demand across NYC neighborhoods. In addition to time-lagged features (such as previous week’s demand), I added information specific to each neighborhood to improve my predictions. As a final result, I obtained relatively accurate unique forecasts for all neighborhoods in NYC.
 
 # Data:
-- The Uber data for this project came from FiveThirtyEight, who obtained the data from the NYC Taxi & Limousine Commission (TLC) by submitting a Freedom of Information Law request on July 20, 2015.
+- The Uber data for this project came from FiveThirtyEight (https://github.com/fivethirtyeight/uber-tlc-foil-response), who obtained the data from the NYC Taxi & Limousine Commission (TLC) by submitting a Freedom of Information Law request on July 20, 2015.
 - NYC’s Citibike data is provided on their website.
 - The NYC subway station locations can be downloaded from data.ny.gov.
 - The neighborhood geoJSON file was the same one used by Adrian Meyers’ excellent NYC taxi trips analysis.
