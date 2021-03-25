@@ -89,8 +89,8 @@ Each bar below represents one neighborhood of the 100 or so in this analysis. It
 - Look for more recent data and work on that
 
 # Questions?
-Saadraees09@gmail.com
-https://www.linkedin.com/in/saad-raees-19b1231a9/
+- Saadraees09@gmail.com
+- https://www.linkedin.com/in/saad-raees-19b1231a9/
 
 
 
